@@ -1,8 +1,3 @@
-'''2
-_
-_
-.
-'''
 from openai import OpenAI
 import json
 
